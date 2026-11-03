@@ -66,7 +66,7 @@ node index.js
 ---
 
 ## 📂 Project Structure
-
+```
 ├── index.js        # WhatsApp socket connection & event handlers
 ├── ai.js           # Dual-AI fallback text generation (Groq & Gemini)
 ├── vision.js       # Multimodal image processing module (Gemini Vision)
@@ -75,6 +75,7 @@ node index.js
 ├── persona.md      # Bot personality and instruction prompt
 ├── .env            # Private API keys (git-ignored)
 └── auth_info/      # Persistent session tokens (git-ignored)
+```
 
 ---
 
