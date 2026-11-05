@@ -30,7 +30,7 @@ Ensure you have the following installed on your system (Linux, macOS, or Windows
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/your-username/yubibot.git](https://github.com/your-username/yubibot.git)
+git clone https://github.com/Biyubiii/wabot.git
 cd yubibot
 ```
 
